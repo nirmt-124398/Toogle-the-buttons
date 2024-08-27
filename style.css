@@ -1,0 +1,13 @@
+.button-container {
+    margin: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#button2, #button3 {
+    display: none; /* Initially hide the second and third buttons */
+}
